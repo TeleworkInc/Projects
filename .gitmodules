@@ -1,3 +1,9 @@
 [submodule "telework-rocket"]
 	path = telework-rocket
 	url = https://github.com/TeleworkInc/telework-rocket.git
+[submodule "site-rocket"]
+	path = site-rocket
+	url = https://github.com/TeleworkInc/site-rocket
+[submodule "yamlayout"]
+	path = yamlayout
+	url = https://github.com/TeleworkInc/yamlayout.git
