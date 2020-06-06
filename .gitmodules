@@ -7,3 +7,9 @@
 [submodule "yamlayout"]
 	path = yamlayout
 	url = https://github.com/TeleworkInc/yamlayout.git
+[submodule "typewriter"]
+	path = typewriter
+	url = https://github.com/TeleworkInc/typewriter.git
+[submodule "web-widgets"]
+	path = web-widgets
+	url = https://github.com/TeleworkInc/web-widgets.git
