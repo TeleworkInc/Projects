@@ -16,6 +16,6 @@
 [submodule "telework-bash-scripts"]
 	path = telework-bash-scripts
 	url = https://github.com/TeleworkInc/telework-bash-scripts.git
-[submodule ".LICENSE"]
-	path = .LICENSE
-	url = https://github.com/TeleworkInc/.LICENSE.git
+[submodule "window-document"]
+	path = window-document
+	url = https://github.com/TeleworkInc/window-document
