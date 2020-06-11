@@ -19,3 +19,6 @@
 [submodule "window-document"]
 	path = window-document
 	url = https://github.com/TeleworkInc/window-document
+[submodule "enable-browser-mode"]
+	path = enable-browser-mode
+	url = https://github.com/christiantjl/enable-browser-mode.git
