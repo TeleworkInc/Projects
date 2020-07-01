@@ -25,3 +25,6 @@
 [submodule "enable-window-document"]
 	path = enable-window-document
 	url = https://github.com/TeleworkInc/enable-window-document
+[submodule "web-compress"]
+	path = web-compress
+	url = https://github.com/TeleworkInc/web-compress.git
