@@ -28,3 +28,6 @@
 [submodule "web-compress"]
 	path = web-compress
 	url = https://github.com/TeleworkInc/web-compress.git
+[submodule "StateMachine.js"]
+	path = StateMachine.js
+	url = https://github.com/TeleworkInc/StateMachine.js.git
