@@ -34,3 +34,6 @@
 [submodule "gproject"]
 	path = gproject
 	url = https://github.com/TeleworkInc/gproject.git
+[submodule "cli-template"]
+	path = cli-template
+	url = https://github.com/TeleworkInc/cli-template.git
