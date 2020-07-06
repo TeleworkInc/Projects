@@ -31,3 +31,6 @@
 [submodule "StateMachine.js"]
 	path = StateMachine.js
 	url = https://github.com/TeleworkInc/StateMachine.js.git
+[submodule "gproject"]
+	path = gproject
+	url = https://github.com/TeleworkInc/gproject.git
