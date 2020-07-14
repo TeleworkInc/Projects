@@ -43,3 +43,6 @@
 [submodule "state-machine"]
 	path = state-machine
 	url = https://github.com/TeleworkInc/state-machine
+[submodule "nodetouch"]
+	path = filetouch
+	url = https://github.com/TeleworkInc/nodetouch.git
