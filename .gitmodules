@@ -29,7 +29,7 @@
 	path = web-compress
 	url = https://github.com/TeleworkInc/web-compress.git
 [submodule "gproject"]
-	path = gproject
+	path = gdev
 	url = https://github.com/TeleworkInc/gproject.git
 [submodule "cli-template"]
 	path = cli-template
@@ -46,3 +46,6 @@
 [submodule "nodetouch"]
 	path = filetouch
 	url = https://github.com/TeleworkInc/nodetouch.git
+[submodule "gdev-template"]
+	path = gdev-template
+	url = https://github.com/TeleworkInc/gdev-template.git
