@@ -49,3 +49,6 @@
 [submodule "gdev-template"]
 	path = gdev-template
 	url = https://github.com/TeleworkInc/gdev-template.git
+[submodule "rollup-plugin-executable-output"]
+	path = rollup-plugin-executable-output
+	url = https://github.com/TeleworkInc/rollup-plugin-executable-output.git
