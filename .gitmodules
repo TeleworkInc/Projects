@@ -38,7 +38,7 @@
 	path = gproject-template
 	url = https://github.com/TeleworkInc/gproject-template.git
 [submodule "call-bash"]
-	path = call-bash
+	path = await-shell
 	url = https://github.com/TeleworkInc/call-bash.git
 [submodule "state-machine"]
 	path = state-machine
