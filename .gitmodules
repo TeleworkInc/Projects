@@ -34,9 +34,6 @@
 [submodule "cli-template"]
 	path = cli-template
 	url = https://github.com/TeleworkInc/cli-template.git
-[submodule "gproject-template"]
-	path = gproject-template
-	url = https://github.com/TeleworkInc/gproject-template.git
 [submodule "call-bash"]
 	path = await-shell
 	url = https://github.com/TeleworkInc/call-bash.git
@@ -54,6 +51,12 @@
 	url = https://github.com/TeleworkInc/rollup-plugin-executable-output.git
 [submodule "await-shell"]
 	url = https://github.com/TeleworkInc/await-shell.git
+[submodule "telework-npm"]
+	path = telework-npm
+	url = https://github.com/TeleworkInc/telework-npm.git
 [submodule "future-event"]
 	path = future-event
 	url = https://github.com/TeleworkInc/future-event.git
+[submodule "gnv-template"]
+	path = gnv-template
+	url = https://github.com/TeleworkInc/gnv-template.git
