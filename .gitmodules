@@ -57,3 +57,6 @@
 [submodule "gnv-template"]
 	path = gnv-template
 	url = https://github.com/TeleworkInc/gnv-template.git
+[submodule "rollup-plugin-export-all-default"]
+	path = rollup-plugin-export-default
+	url = https://github.com/TeleworkInc/rollup-plugin-export-all-default.git
