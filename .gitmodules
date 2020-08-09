@@ -60,3 +60,6 @@
 [submodule "rollup-plugin-export-all-default"]
 	path = rollup-plugin-export-default
 	url = https://github.com/TeleworkInc/rollup-plugin-export-all-default.git
+[submodule "eslint-plugin-consistent-imports"]
+	path = eslint-plugin-consistent-imports
+	url = https://github.com/TeleworkInc/eslint-plugin-consistent-imports.git
