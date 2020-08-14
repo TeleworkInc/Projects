@@ -65,4 +65,4 @@
 	url = https://github.com/TeleworkInc/eslint-plugin-consistent-imports.git
 [submodule "web-compile"]
 	path = web-compile
-	url = https://github.com/TeleworkInc/web-compile.git
+	url = git@github.com:TeleworkInc/web-compile.git
