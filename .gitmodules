@@ -63,3 +63,6 @@
 [submodule "eslint-plugin-consistent-imports"]
 	path = eslint-plugin-consistent-imports
 	url = https://github.com/TeleworkInc/eslint-plugin-consistent-imports.git
+[submodule "web-compile"]
+	path = web-compile
+	url = https://github.com/TeleworkInc/web-compile.git
