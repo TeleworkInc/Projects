@@ -66,3 +66,12 @@
 [submodule "web-compile"]
 	path = web-compile
 	url = git@github.com:TeleworkInc/web-compile.git
+[submodule "webpack-ignore-optional-dependencies"]
+	path = webpack-ignore-optional-dependencies
+	url = https://github.com/TeleworkInc/webpack-ignore-optional-dependencies.git
+[submodule "rollup-plugin-disable-packages"]
+	path = rollup-plugin-disable-packages
+	url = https://github.com/TeleworkInc/rollup-plugin-disable-packages.git
+[submodule ".gnv"]
+	path = .gnv
+	url = https://github.com/TeleworkInc/.gnv.git
