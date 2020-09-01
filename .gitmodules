@@ -1,9 +1,6 @@
 [submodule "site-rocket"]
 	path = site-rocket
 	url = https://github.com/TeleworkInc/site-rocket
-[submodule "yamlayout"]
-	path = yamlayout
-	url = https://github.com/TeleworkInc/yamlayout.git
 [submodule "typewriter"]
 	path = typewriter
 	url = https://github.com/TeleworkInc/typewriter.git
@@ -75,3 +72,12 @@
 [submodule ".gnv"]
 	path = .gnv
 	url = https://github.com/TeleworkInc/.gnv.git
+[submodule "rollup-plugin-import-meta-url"]
+	path = rollup-plugin-import-meta-url
+	url = https://github.com/TeleworkInc/rollup-plugin-import-meta-url
+[submodule "reactive-json"]
+	path = reactive-json
+	url = git@github.com:TeleworkInc/reactive-json.git
+[submodule "yamlayout"]
+	path = yamlayout
+	url = https://github.com/TeleworkInc/yamlayout.git
