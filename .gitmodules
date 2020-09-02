@@ -78,6 +78,3 @@
 [submodule "reactive-json"]
 	path = reactive-json
 	url = git@github.com:TeleworkInc/reactive-json.git
-[submodule "yamlayout"]
-	path = yamlayout
-	url = https://github.com/TeleworkInc/yamlayout.git
