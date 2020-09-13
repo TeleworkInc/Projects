@@ -4,9 +4,6 @@
 [submodule "typewriter"]
 	path = typewriter
 	url = https://github.com/TeleworkInc/typewriter.git
-[submodule "web-widgets"]
-	path = web-widgets
-	url = https://github.com/TeleworkInc/web-widgets.git
 [submodule "telework-bash-scripts"]
 	path = telework-bash-scripts
 	url = https://github.com/TeleworkInc/telework-bash-scripts.git
