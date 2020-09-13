@@ -81,3 +81,6 @@
 [submodule "html-widget"]
 	path = html-widget
 	url = git@github.com:TeleworkInc/html-widget.git
+[submodule "web-widgets"]
+	path = web-widgets
+	url = https://github.com/TeleworkInc/web-widgets
