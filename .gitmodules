@@ -84,3 +84,6 @@
 [submodule "telework-home"]
 	path = telework-home
 	url = git@github.com:TeleworkInc/telework-home.git
+[submodule "function-tostring"]
+	path = function-tostring
+	url = git@github.com:TeleworkInc/function-tostring.git
