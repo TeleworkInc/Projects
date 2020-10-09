@@ -87,3 +87,6 @@
 [submodule "function-tostring"]
 	path = function-tostring
 	url = git@github.com:TeleworkInc/function-tostring.git
+[submodule "rollup-plugin-ast-template"]
+	path = rollup-plugin-ast-template
+	url = https://github.com/TeleworkInc/rollup-plugin-ast-template
