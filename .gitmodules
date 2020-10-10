@@ -90,3 +90,6 @@
 [submodule "rollup-plugin-ast-template"]
 	path = rollup-plugin-ast-template
 	url = https://github.com/TeleworkInc/rollup-plugin-ast-template
+[submodule "rollup-plugin-class-fields-to-getters"]
+	path = rollup-plugin-class-fields-to-getters
+	url = https://github.com/TeleworkInc/rollup-plugin-class-fields-to-getters
